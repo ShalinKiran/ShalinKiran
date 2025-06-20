@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shalinkiran.com/](https://shalinkiran.com/)
 
-- 📫 How to reach me **shalinkiran98@gmail.com**
+- 📫 How to reach me **codewithshalin@gmail.com**
 
 - ⚡ Fun fact **I make music and professionally mix and master songs for clients!**
 
