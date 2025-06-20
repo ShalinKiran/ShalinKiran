@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shalin Kiran Singaravel</h1>
+<h1 align="center">Hi 👋, I'm Shalin Kiran</h1>
 <h3 align="center">A full stack web developer from Toronto!</h3>
 
 - 👨‍💻 All of my projects are available at [https://shalinkiran.com/](https://shalinkiran.com/)
